@@ -1,4 +1,3 @@
 # Meat_Packing
-![landscape](https://user-images.githubusercontent.com/106004208/211485194-4af43e3a-464a-44ad-83df-e46a22e333e1.jpeg)
-
-![Potrait](https://user-images.githubusercontent.com/106004208/211485398-f910e5d7-5c64-4278-a959-34dbb279d152.jpeg)
+![landscape (2)](https://user-images.githubusercontent.com/106004208/211545816-a7d542c0-53db-4faa-b489-a95ab1e60dc8.jpeg)
+![Potrait (2)](https://user-images.githubusercontent.com/106004208/211545848-9fb66142-626a-43c8-be62-7e75dcbddc7e.jpeg)
